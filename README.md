@@ -77,6 +77,7 @@ from Kaggle website [here](https://www.kaggle.com/fedesoriano/stroke-prediction-
 
 # Authors
 [@rymyf](https://github.com/rymyf)
+
 [@munira-alshahrani](https://github.com/munira-alshahrani)
 
 [@ShathaAlghamdi](https://github.com/ShathaAlghamdi)
