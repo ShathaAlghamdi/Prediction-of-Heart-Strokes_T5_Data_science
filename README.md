@@ -45,7 +45,7 @@ Below is a description of the features:
 
 5. Assumption: Workload results in high blood pressure and that could lead to Stroke, is it true?
 
-6. Assumption: Males are most susceptible to strokes due to high work related stress, is it true
+6. Assumption: Males are most susceptible to strokes due to high work related stress, is it true?
 
 ## Algorithms
 
