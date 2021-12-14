@@ -21,7 +21,7 @@ Below is a description of the features:
 | Feature name  | Description   | Data type |
 | ------------- | ------------- | ------------- |
 | id       | Identification number of the individual |  float          |
-| age       | age of the patient | int           |
+| age       | age of the patient | float           |
 | gender        | male or female | object       |
 | hypertension           | person age    | int           |
 | heart_disease        | Health related parameter, does person have heart disease | int         |
