@@ -48,7 +48,15 @@ Below is a description of the features:
 6. Assumption: Males are most susceptible to strokes due to high work related stress, is it true?
 
 ## Algorithms
-
+- KNN
+- Logistic Regression
+- Random Forest
+- Decision Tree
+- Naive Bayes
+- XGBoost
+- SVM
+- Gradient Boosting
+- LightGBM
 
 ## Tools
 - Libraries: 
