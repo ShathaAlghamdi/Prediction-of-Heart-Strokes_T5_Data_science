@@ -65,7 +65,10 @@ numpy,
 matplotlib,
 seaborn,
 plotly, 
-sklearn.
+sklearn,
+imblearn, 
+pywaffle.
+
 
 - Softwares: 
 Trello,
