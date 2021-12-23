@@ -65,7 +65,6 @@ Below is a description of the features:
 ![seaborn](https://img.shields.io/badge/seaborn-%2006600.svg??style=flat&color=blue)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg??style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg??style=flat&logo=scikit-learn&logoColor=white)
-![nltk](https://img.shields.io/badge/nltk-%2006600.svg??style=flat&color=red)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg??style=flat&logo=plotly&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-%233F4F75.svg??style=flat&color=9cf)
 ![pywaffle](https://img.shields.io/badge/pywaffle-%233F4F75.svg??style=flat&color=yellow)
