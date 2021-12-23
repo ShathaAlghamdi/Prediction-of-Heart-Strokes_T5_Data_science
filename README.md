@@ -67,6 +67,7 @@ Below is a description of the features:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg??style=flat&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg??style=flat&logo=plotly&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-%233F4F75.svg??style=flat&color=9cf)
+![imblearn](https://img.shields.io/badge/imblearn-%2006600.svg??style=flat&color=red)
 ![pywaffle](https://img.shields.io/badge/pywaffle-%233F4F75.svg??style=flat&color=yellow)
 
 - Softwares: 
